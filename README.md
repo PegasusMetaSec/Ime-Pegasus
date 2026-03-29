@@ -1,6 +1,6 @@
 <div align="center">
   <!-- ========== HERO SECTION ========== -->
-  <img src="https://github.com/user-attachments/assets/4c80ba96-101c-49eb-aef8-bd600da25c31" alt="IME Pegasus Logo" width="140" />1)
+  <img src="https://github.com/user-attachments/assets/4c80ba96-101c-49eb-aef8-bd600da25c31" alt="IME Pegasus Logo" width="140" />
 
   
   <h1>
@@ -92,21 +92,21 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="assets/icons/features/ai-brain.png" width="80" />
+        <img src="" width="80" />
         <br />
         <b>🧠 AI Neural Engine</b>
         <br />
         <sub>98% prediction accuracy</sub>
        </td>
       <td align="center" width="33%">
-        <img src="assets/icons/features/lightning.png" width="80" />
+        <img src="" width="80" />
         <br />
         <b>⚡ Hyper Response</b>
         <br />
         <sub>&lt;5ms latency</sub>
        </td>
       <td align="center" width="33%">
-        <img src="assets/icons/features/multilingual.png" width="80" />
+        <img src="" width="80" />
         <br />
         <b>🌐 15+ Languages</b>
         <br />
@@ -115,21 +115,21 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="assets/icons/features/themes.png" width="80" />
+        <img src="" width="80" />
         <br />
         <b>🎨 Custom Themes</b>
         <br />
         <sub>Dark/Light + Custom</sub>
        </td>
       <td align="center">
-        <img src="assets/icons/features/analytics.png" width="80" />
+        <img src="" width="80" />
         <br />
         <b>📊 Smart Analytics</b>
         <br />
         <sub>Typing insights & stats</sub>
        </td>
       <td align="center">
-        <img src="assets/icons/features/cloud.png" width="80" />
+        <img src="" width="80" />
         <br />
         <b>☁️ Cloud Sync</b>
         <br />
@@ -138,21 +138,21 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="assets/icons/features/custom-dictionary.png" width="80" />
+        <img src="" width="80" />
         <br />
         <b>📚 Custom Dictionary</b>
         <br />
         <sub>Add your own words</sub>
        </td>
       <td align="center">
-        <img src="assets/icons/features/emoji.png" width="80" />
+        <img src="" width="80" />
         <br />
         <b>😊 Emoji Support</b>
         <br />
         <sub>Quick emoji input</sub>
        </td>
       <td align="center">
-        <img src="assets/icons/features/privacy.png" width="80" />
+        <img src="" width="80" />
         <br />
         <b>🔒 Privacy First</b>
         <br />
