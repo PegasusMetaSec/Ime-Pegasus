@@ -1,139 +1,260 @@
 <div align="center">
+  <!-- ========== HERO SECTION ========== -->
   <img src="assets/logo/pegasus-logo.png" alt="IME Pegasus Logo" width="140" />
   
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&random=false&width=500&height=70&lines=IME+PEGASUS;FLY+WITH+SPEED;NEXT-GEN+IME" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=40&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&random=false&width=550&height=80&lines=IME+PEGASUS;THE+ULTIMATE+IME;FLY+WITH+SPEED;NEXT-GEN+TYPING" alt="Typing SVG" />
   </h1>
   
   <p>
-    <img src="https://img.shields.io/badge/Version-2.0.0-00D9FF?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Status-Active-00FF9D?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/License-MIT-FFB800?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Version-3.0.0-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Release-Stable-00FF9D?style=for-the-badge&logo=statuspage&logoColor=white" />
+    <img src="https://img.shields.io/badge/License-MIT-FFB800?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+    <img src="https://img.shields.io/badge/PRs-Welcome-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+  </p>
+  
+  <p>
+    <img src="https://img.shields.io/github/stars/yourusername/ime-pegasus?style=flat-square&logo=github&color=yellow&label=Stars" />
+    <img src="https://img.shields.io/github/forks/yourusername/ime-pegasus?style=flat-square&logo=github&color=blue&label=Forks" />
+    <img src="https://img.shields.io/github/issues/yourusername/ime-pegasus?style=flat-square&logo=github&color=red&label=Issues" />
+    <img src="https://img.shields.io/github/downloads/yourusername/ime-pegasus/total?style=flat-square&logo=github&color=green&label=Downloads" />
   </p>
 </div>
 
+<br />
+
 ---
 
-## 🌟 **Preview**
+## 🌟 **HERO PREVIEW**
 
 <div align="center">
-  <img src="assets/screenshots/dashboard.png" alt="Dashboard UI" width="85%" />
+  <img src="assets/screenshots/hero-banner.png" alt="IME Pegasus Hero Banner" width="100%" />
   <br />
-  <em>⚡ Main Interface - Modern & Clean ⚡</em>
+  <em>🎯 Next Generation Input Method Editor - Redefining Typing Experience 🎯</em>
 </div>
 
 ---
 
-## ✨ **Fitur Unggulan**
+## 📖 **TABLE OF CONTENTS**
+
+<!-- TOC -->
+<details open>
+  <summary><b>📑 Click to expand/collapse</b></summary>
+  <br />
+  
+  - [🌟 About IME Pegasus](#-about-ime-pegasus)
+  - [✨ Features](#-features)
+  - [🖼️ Gallery](#️-gallery)
+  - [🚀 Quick Start](#-quick-start)
+  - [💻 Installation](#-installation)
+  - [⚙️ Configuration](#️-configuration)
+  - [🎮 Keyboard Shortcuts](#-keyboard-shortcuts)
+  - [📁 Project Structure](#-project-structure)
+  - [🧪 Testing](#-testing)
+  - [🤝 Contributing](#-contributing)
+  - [📊 Roadmap](#-roadmap)
+  - [🙏 Credits](#-credits)
+  - [📄 License](#-license)
+  - [📞 Contact](#-contact)
+</details>
+
+---
+
+## 🌟 **ABOUT IME PEGASUS**
 
 <div align="center">
+  <img src="assets/images/about-banner.png" alt="About IME Pegasus" width="90%" />
+</div>
+
+**IME Pegasus** adalah *Input Method Editor* (IME) revolusioner yang menggabungkan kecerdasan buatan dengan desain elegan untuk memberikan pengalaman mengetik terbaik. Dirancang untuk:
+
+| Kategori | Deskripsi |
+|----------|-----------|
+| 🎯 **Profesional** | Meningkatkan produktivitas dengan prediksi cerdas |
+| 🎨 **Kreator Konten** | Mengetik lebih cepat dan akurat |
+| 🌏 **Multilingual** | Support 15+ bahasa termasuk Indonesia |
+| 🔧 **Developer** | API dan kustomisasi lengkap |
+
+<div align="center">
+  <img src="assets/images/pegasus-concept.png" alt="Pegasus Concept" width="70%" />
+  <br />
+  <sub>⚡ Terinspirasi dari kecepatan mitologi Pegasus ⚡</sub>
+</div>
+
+---
+
+## ✨ **FEATURES**
+
+<div align="center">
+  <h3>🔥 Core Features</h3>
+  
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="assets/icons/ai-brain.png" width="70" />
+        <img src="assets/icons/features/ai-brain.png" width="80" />
         <br />
         <b>🧠 AI Neural Engine</b>
         <br />
-        Prediksi cerdas 98% akurat
-      </td>
+        <sub>98% prediction accuracy</sub>
+       </td>
       <td align="center" width="33%">
-        <img src="assets/icons/lightning.png" width="70" />
+        <img src="assets/icons/features/lightning.png" width="80" />
         <br />
         <b>⚡ Hyper Response</b>
         <br />
-        Latensi < 5ms
-      </td>
+        <sub>&lt;5ms latency</sub>
+       </td>
       <td align="center" width="33%">
-        <img src="assets/icons/multilingual.png" width="70" />
+        <img src="assets/icons/features/multilingual.png" width="80" />
         <br />
         <b>🌐 15+ Languages</b>
         <br />
-        Support Bahasa Indonesia
-      </td>
+        <sub>Full Indonesia support</sub>
+       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="assets/icons/customize.png" width="70" />
+        <img src="assets/icons/features/themes.png" width="80" />
         <br />
         <b>🎨 Custom Themes</b>
         <br />
-        Dark/Light mode
-      </td>
+        <sub>Dark/Light + Custom</sub>
+       </td>
       <td align="center">
-        <img src="assets/icons/analytics.png" width="70" />
+        <img src="assets/icons/features/analytics.png" width="80" />
         <br />
         <b>📊 Smart Analytics</b>
         <br />
-        Insight mengetik
-      </td>
+        <sub>Typing insights & stats</sub>
+       </td>
       <td align="center">
-        <img src="assets/icons/cloud.png" width="70" />
+        <img src="assets/icons/features/cloud.png" width="80" />
         <br />
         <b>☁️ Cloud Sync</b>
         <br />
-        Sinkron multi-device
-      </td>
+        <sub>Multi-device sync</sub>
+       </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="assets/icons/features/custom-dictionary.png" width="80" />
+        <br />
+        <b>📚 Custom Dictionary</b>
+        <br />
+        <sub>Add your own words</sub>
+       </td>
+      <td align="center">
+        <img src="assets/icons/features/emoji.png" width="80" />
+        <br />
+        <b>😊 Emoji Support</b>
+        <br />
+        <sub>Quick emoji input</sub>
+       </td>
+      <td align="center">
+        <img src="assets/icons/features/privacy.png" width="80" />
+        <br />
+        <b>🔒 Privacy First</b>
+        <br />
+        <sub>Local processing only</sub>
+       </td>
     </tr>
   </table>
 </div>
 
+<div align="center">
+  <img src="assets/images/features-demo.gif" alt="Features Demo Animation" width="90%" />
+  <br />
+  <sub>🎬 See IME Pegasus in action</sub>
+</div>
+
 ---
 
-## 🖼️ **Gallery Screenshot**
+## 🖼️ **GALLERY**
 
 <div align="center">
-  <h3>📸 Tampilan Aplikasi</h3>
+  <h3>📸 Interface Showcase</h3>
   
   <table>
     <tr>
       <td align="center">
-        <img src="assets/screenshots/main-ui.png" width="380" />
+        <img src="assets/screenshots/01-main-dashboard.png" width="400" />
         <br />
-        <sub>🏠 Main Interface</sub>
-      </td>
+        <b>🏠 Main Dashboard</b>
+        <br />
+        <sub>Clean, modern, intuitive</sub>
+       </td>
       <td align="center">
-        <img src="assets/screenshots/settings.png" width="380" />
+        <img src="assets/screenshots/02-typing-interface.png" width="400" />
         <br />
-        <sub>⚙️ Settings Panel</sub>
-      </td>
+        <b>⌨️ Typing Interface</b>
+        <br />
+        <sub>Real-time predictions</sub>
+       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="assets/screenshots/prediction.png" width="380" />
+        <img src="assets/screenshots/03-settings-panel.png" width="400" />
         <br />
-        <sub>🔮 AI Prediction</sub>
-      </td>
+        <b>⚙️ Settings Panel</b>
+        <br />
+        <sub>Fully customizable</sub>
+       </td>
       <td align="center">
-        <img src="assets/screenshots/analytics.png" width="380" />
+        <img src="assets/screenshots/04-prediction-engine.png" width="400" />
         <br />
-        <sub>📈 Analytics Dashboard</sub>
-      </td>
+        <b>🔮 Prediction Engine</b>
+        <br />
+        <sub>AI-powered suggestions</sub>
+       </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
-        <img src="assets/screenshots/themes.png" width="780" />
+      <td align="center">
+        <img src="assets/screenshots/05-analytics-dashboard.png" width="400" />
         <br />
-        <sub>🎨 Theme Gallery - 10+ Themes Available</sub>
-      </td>
+        <b>📈 Analytics Dashboard</b>
+        <br />
+        <sub>Typing statistics</sub>
+       </td>
+      <td align="center">
+        <img src="assets/screenshots/06-theme-gallery.png" width="400" />
+        <br />
+        <b>🎨 Theme Gallery</b>
+        <br />
+        <sub>10+ premium themes</sub>
+       </td>
     </tr>
   </table>
 </div>
 
----
-
-## 🚀 **Installation**
-
 <div align="center">
-  <img src="assets/images/install-guide.png" alt="Installation Guide" width="80%" />
+  <h3>🎨 Theme Variants</h3>
+  <img src="assets/screenshots/themes-showcase.png" alt="Themes Showcase" width="90%" />
 </div>
 
+<div align="center">
+  <h3>📱 Mobile View</h3>
+  <img src="assets/screenshots/mobile-view.png" alt="Mobile View" width="400" />
+</div>
+
+---
+
+## 🚀 **QUICK START**
+
+<div align="center">
+  <img src="assets/images/quick-start-guide.png" alt="Quick Start Guide" width="90%" />
+</div>
+
+### 30 Seconds Setup
+
 ```bash
-# Clone repository
+# 1️⃣ Clone repository
 git clone https://github.com/yourusername/ime-pegasus.git
+
+# 2️⃣ Enter directory
 cd ime-pegasus
 
-# Install dependencies
+# 3️⃣ Install dependencies
 pip install -r requirements.txt
 
-# Run IME Pegasus
+# 4️⃣ Run IME Pegasus
 python main.py
