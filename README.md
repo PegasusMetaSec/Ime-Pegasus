@@ -1,59 +1,149 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&random=false&width=600&height=70&lines=IME+Pegasus;Flying+into+the+Future;Next-Gen+Input+Experience" alt="Typing SVG" />
+  <img src="assets/logo/pegasus-logo.png" alt="IME Pegasus Logo" width="120" />
   
-  <img src="https://img.shields.io/badge/Version-2.0.0-00F7FF?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-00F7FF?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/License-MIT-00F7FF?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&random=false&width=500&height=70&lines=IME+PEGASUS;FLY+WITH+SPEED;NEXT-GEN+IME" alt="Typing SVG" />
+  </h1>
   
-  <img src="https://img.shields.io/github/stars/yourusername/ime-pegasus?style=social" />
-  <img src="https://img.shields.io/github/forks/yourusername/ime-pegasus?style=social" />
+  <p>
+    <img src="https://img.shields.io/badge/Version-2.0.0-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Status-Active-00FF9D?style=for-the-badge&logo=statuspage&logoColor=white" />
+    <img src="https://img.shields.io/badge/License-MIT-FFB800?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+  </p>
+  
+  <p>
+    <img src="https://img.shields.io/github/stars/yourusername/ime-pegasus?style=flat-square&logo=github&color=gold" />
+    <img src="https://img.shields.io/github/forks/yourusername/ime-pegasus?style=flat-square&logo=github&color=blue" />
+    <img src="https://img.shields.io/github/issues/yourusername/ime-pegasus?style=flat-square&logo=github&color=red" />
+  </p>
 </div>
 
 ---
 
-## 🚀 **About IME Pegasus**
-
-**IME Pegasus** adalah *Input Method Editor* (IME) generasi terbaru yang dirancang untuk memberikan pengalaman mengetik yang **cepat**, **cerdas**, dan **nyaman**. Dengan teknologi prediksi canggih dan antarmuka modern, Pegasus membawa pengalaman mengetik Anda ke level yang lebih tinggi.
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400/0a0a0a/00F7FF?text=IME+Pegasus+Demo+Screenshot" alt="Demo Screenshot" width="80%" />
-</p>
-
----
-
-## ✨ **Fitur Unggulan**
-
-| Fitur | Deskripsi |
-|-------|-----------|
-| 🧠 **AI-Powered Prediction** | Prediksi kata cerdas dengan machine learning |
-| ⚡ **Lightning Fast** | Optimasi performa untuk respons instan |
-| 🎨 **Modern UI** | Antarmuka minimalis dengan dark mode |
-| 🔤 **Multi-Language** | Dukungan 10+ bahasa termasuk Indonesia |
-| ⌨️ **Custom Shortcuts** | Kustomisasi shortcut sesuai gaya Anda |
-| 📊 **Typing Analytics** | Statistik dan insight kebiasaan mengetik |
-| ☁️ **Cloud Sync** | Sinkronisasi kamus dan pengaturan |
-
----
-
-## 🛠️ **Tech Stack**
+## 🌟 **Preview**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="assets/screenshots/dashboard.png" alt="Dashboard Preview" width="90%" />
+  <br />
+  <em>✨ Main Interface - Clean & Modern Design ✨</em>
 </div>
 
 ---
 
-## 📦 **Installation**
+## 🎯 **About IME Pegasus**
 
-### Prerequisites
-- **Windows 10/11** | **Linux (Ubuntu 20.04+)** | **macOS 11+**
-- **RAM:** Minimal 4GB
-- **Storage:** 500MB available space
+> **IME Pegasus** adalah *Input Method Editor* premium yang menggabungkan kecerdasan buatan dengan desain elegan. Diciptakan untuk para profesional, kreator, dan siapapun yang menginginkan pengalaman mengetik luar biasa.
 
-### Quick Install
+<div align="center">
+  <img src="assets/images/feature-showcase.png" alt="Features Showcase" width="85%" />
+</div>
+
+---
+
+## ✨ **Powerful Features**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="assets/icons/ai-brain.png" width="64" />
+        <br />
+        <strong>🧠 AI Neural Engine</strong>
+        <br />
+        Prediksi kontekstual dengan akurasi 98%
+      </td>
+      <td align="center" width="33%">
+        <img src="assets/icons/lightning.png" width="64" />
+        <br />
+        <strong>⚡ Hyper Response</strong>
+        <br />
+        Latensi < 5ms, respons instan
+      </td>
+      <td align="center" width="33%">
+        <img src="assets/icons/multilingual.png" width="64" />
+        <br />
+        <strong>🌐 15+ Languages</strong>
+        <br />
+        Support bahasa Indonesia & daerah
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="assets/icons/customize.png" width="64" />
+        <br />
+        <strong>🎨 Fully Customizable</strong>
+        <br />
+        Themes, fonts, layout bebas
+      </td>
+      <td align="center">
+        <img src="assets/icons/analytics.png" width="64" />
+        <br />
+        <strong>📊 Smart Analytics</strong>
+        <br />
+        Insight kebiasaan mengetik
+      </td>
+      <td align="center">
+        <img src="assets/icons/cloud.png" width="64" />
+        <br />
+        <strong>☁️ Cloud Sync</strong>
+        <br />
+        Sinkronisasi multi-device
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🖼️ **Gallery**
+
+<div align="center">
+  <h3>Interface Showcase</h3>
+  
+  <table>
+    <tr>
+      <td align="center">
+        <img src="assets/screenshots/main-ui.png" width="350" />
+        <br />
+        <sub>🏠 Main Interface</sub>
+      </td>
+      <td align="center">
+        <img src="assets/screenshots/settings.png" width="350" />
+        <br />
+        <sub>⚙️ Settings Panel</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="assets/screenshots/prediction.png" width="350" />
+        <br />
+        <sub>🔮 Smart Prediction</sub>
+      </td>
+      <td align="center">
+        <img src="assets/screenshots/analytics.png" width="350" />
+        <br />
+        <sub>📈 Analytics Dashboard</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="assets/screenshots/themes.png" width="700" />
+        <br />
+        <sub>🎨 Custom Themes Gallery</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🚀 **Quick Installation**
+
+<div align="center">
+  <img src="assets/images/installation-guide.png" alt="Installation Guide" width="80%" />
+</div>
+
+### 📥 Download
 
 ```bash
 # Clone repository
@@ -65,8 +155,5 @@ cd ime-pegasus
 # Install dependencies
 pip install -r requirements.txt
 
-# Jalankan installer
-python setup.py install
-
-# Start IME Pegasus
+# Jalankan IME Pegasus
 python main.py
