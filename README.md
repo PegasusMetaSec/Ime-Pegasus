@@ -2,7 +2,6 @@
   <!-- ========== HERO SECTION ========== -->
   <img src="https://github.com/user-attachments/assets/4c80ba96-101c-49eb-aef8-bd600da25c31" alt="IME Pegasus Logo" width="140" />
 
-  
   <h1>
     <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=40&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&random=false&width=550&height=80&lines=IME+PEGASUS;THE+ULTIMATE+IME;FLY+WITH+SPEED;NEXT-GEN+TYPING" alt="Typing SVG" />
   </h1>
@@ -92,72 +91,72 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="" width="80" />
+        <img src="https://placehold.co/80x80/00D9FF/FFFFFF?text=AI" width="80" />
         <br />
         <b>🧠 AI Neural Engine</b>
         <br />
         <sub>98% prediction accuracy</sub>
-       </td>
+      </td>
       <td align="center" width="33%">
-        <img src="" width="80" />
+        <img src="https://placehold.co/80x80/00D9FF/FFFFFF?text=⚡" width="80" />
         <br />
         <b>⚡ Hyper Response</b>
         <br />
         <sub>&lt;5ms latency</sub>
-       </td>
+      </td>
       <td align="center" width="33%">
-        <img src="" width="80" />
+        <img src="https://placehold.co/80x80/00D9FF/FFFFFF?text=🌐" width="80" />
         <br />
         <b>🌐 15+ Languages</b>
         <br />
         <sub>Full Indonesia support</sub>
-       </td>
+      </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="" width="80" />
+        <img src="https://placehold.co/80x80/00D9FF/FFFFFF?text=🎨" width="80" />
         <br />
         <b>🎨 Custom Themes</b>
         <br />
         <sub>Dark/Light + Custom</sub>
-       </td>
+      </td>
       <td align="center">
-        <img src="" width="80" />
+        <img src="https://placehold.co/80x80/00D9FF/FFFFFF?text=📊" width="80" />
         <br />
         <b>📊 Smart Analytics</b>
         <br />
         <sub>Typing insights & stats</sub>
-       </td>
+      </td>
       <td align="center">
-        <img src="" width="80" />
+        <img src="https://placehold.co/80x80/00D9FF/FFFFFF?text=☁️" width="80" />
         <br />
         <b>☁️ Cloud Sync</b>
         <br />
         <sub>Multi-device sync</sub>
-       </td>
+      </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="" width="80" />
+        <img src="https://placehold.co/80x80/00D9FF/FFFFFF?text=📚" width="80" />
         <br />
         <b>📚 Custom Dictionary</b>
         <br />
         <sub>Add your own words</sub>
-       </td>
+      </td>
       <td align="center">
-        <img src="" width="80" />
+        <img src="https://placehold.co/80x80/00D9FF/FFFFFF?text=😊" width="80" />
         <br />
         <b>😊 Emoji Support</b>
         <br />
         <sub>Quick emoji input</sub>
-       </td>
+      </td>
       <td align="center">
-        <img src="" width="80" />
+        <img src="https://placehold.co/80x80/00D9FF/FFFFFF?text=🔒" width="80" />
         <br />
         <b>🔒 Privacy First</b>
         <br />
         <sub>Local processing only</sub>
-       </td>
+      </td>
     </tr>
   </table>
 </div>
@@ -183,14 +182,14 @@
         <b>🏠 Main Dashboard</b>
         <br />
         <sub>Clean, modern, intuitive</sub>
-       </td>
+      </td>
       <td align="center">
         <img src="assets/screenshots/02-typing-interface.png" width="400" />
         <br />
         <b>⌨️ Typing Interface</b>
         <br />
         <sub>Real-time predictions</sub>
-       </td>
+      </td>
     </tr>
     <tr>
       <td align="center">
@@ -199,14 +198,14 @@
         <b>⚙️ Settings Panel</b>
         <br />
         <sub>Fully customizable</sub>
-       </td>
+      </td>
       <td align="center">
         <img src="assets/screenshots/04-prediction-engine.png" width="400" />
         <br />
         <b>🔮 Prediction Engine</b>
         <br />
         <sub>AI-powered suggestions</sub>
-       </td>
+      </td>
     </tr>
     <tr>
       <td align="center">
@@ -215,14 +214,14 @@
         <b>📈 Analytics Dashboard</b>
         <br />
         <sub>Typing statistics</sub>
-       </td>
+      </td>
       <td align="center">
         <img src="assets/screenshots/06-theme-gallery.png" width="400" />
         <br />
         <b>🎨 Theme Gallery</b>
         <br />
         <sub>10+ premium themes</sub>
-       </td>
+      </td>
     </tr>
   </table>
 </div>
