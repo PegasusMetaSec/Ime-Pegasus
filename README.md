@@ -28,7 +28,7 @@
 ## 🌟 **HERO PREVIEW**
 
 <div align="center">
-  <img src="assets/screenshots/hero-banner.png" alt="IME Pegasus Hero Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/c9146ca9-6c49-4ba2-a7bb-bcec08142afe" alt="IME Pegasus Hero Banner" width="100%" />
   <br />
   <em>🎯 Next Generation Input Method Editor - Redefining Typing Experience 🎯</em>
 </div>
