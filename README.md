@@ -2,6 +2,11 @@
   <!-- ========== HERO SECTION ========== -->
   <img src="https://github.com/user-attachments/assets/4c80ba96-101c-49eb-aef8-bd600da25c31" alt="IME Pegasus Logo" width="140" />
 
+
+  <div align="center">
+<a href="https://trendshift.io/repositories/14638" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14638" alt="HKUDS%2FAI-Researcher | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+</div>
+
   <h1>
     <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=40&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&random=false&width=550&height=80&lines=IME+PEGASUS;THE+ULTIMATE+IME;FLY+WITH+SPEED;NEXT-GEN+TYPING" alt="Typing SVG" />
   </h1>
